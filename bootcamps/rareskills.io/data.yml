@@ -1,0 +1,44 @@
+description: !!python/unicode 'RareSkills turns existing software developers into blockchain development experts with an extremely rigorous 4 month solidity bootcamp, with optional extensions for specialized topics.
+
+We focus on Solidity development for Ethereum and other EVM compatible blockchains.
+
+Class sizes are limited to 5 students, and each student is given 1-on-1 personalized coaching from an expert on a weekly basis. New cohorts begin each month.
+
+The course is designed and taught by a two-time Udemy bestselling author on advance solidity development.
+
+
+  '
+display_name: RareSkills.io
+founded_year: 2022
+meta-description: We turn junior blockchain and web3 developers into senior ones. Visit our website to apply.
+primary_email: jeff@rareskills.io
+programs:
+  primary:
+    admissions: Application, interview, monthly cohorts
+    cities:
+    - Anywhere
+    commitment: part-time
+    cost_description: $5000
+    description: !!python/unicode 'Students will master the major ERC protocols, understand the intricacies of the Solidity language, fully grasp the Ethereum Virtual Machine specifications, go beyond automated testing, use advanced design patterns, and hack smart contracts. They will build projects far harder and more intricate than any other bootcamp would dare challenge them to attempt. Our curriculum is so rigorous that the students have gotten interviews at top blockchain technology companies even before finishing the program.'
+    display_name: Blockchain & Web3 Bootcamp
+    duration: 4
+    duration_units: months
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - Solidity
+    - Ethereum
+    - ERC20, ERC721, ERC1155
+    - NFT
+    - Ethereum Virtual Machine (EVM)
+    - Gas Optimization
+    - Assembly and Yul Programming
+    tuition: 5000
+    tuition_units: USD
+tagline: Intensive blockchain & web3 bootcamp
+twitter: rareskills_io
+website: http://rareskills.io/
