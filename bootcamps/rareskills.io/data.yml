@@ -16,7 +16,7 @@ programs:
   primary:
     admissions: aApplication, interview, monthly cohorts
     cities:
-    - anywhere
+    - remote
     commitment: part-time
     cost_description: $5000
     description: !!python/unicode 'Students will master the major ERC protocols, understand the intricacies of the Solidity language, fully grasp the Ethereum Virtual Machine specifications, go beyond automated testing, use advanced design patterns, and hack smart contracts. They will build projects far harder and more intricate than any other bootcamp would dare challenge them to attempt. Our curriculum is so rigorous that the students have gotten interviews at top blockchain technology companies even before finishing the program.'
@@ -32,12 +32,10 @@ programs:
     topics:
     - solidity
     - ethereum
-    - erc20, erc721, erc1155
-    - nft
-    - ethereum virtual machine (evm)
-    - gas optimization
-    - assembly and yul programming
-    tuition: 5000
+    - nfts
+    - blockchain
+    - erc
+    tuition: 6000
     tuition_units: USD
 tagline: Intensive blockchain & web3 bootcamp
 twitter: rareskills_io

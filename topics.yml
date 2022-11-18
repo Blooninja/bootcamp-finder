@@ -16,7 +16,7 @@
 - display_name: Analytics
   slug: analytics
   meta_description: "Compare bootcamps that teach how to find the right data and illustrate it for the rest of the company to shape the high-level marketing strategy."
-  description: "Analyzing a company's past digital marketing efforts in order to make strategic improvements in future digital marketing efforts." 
+  description: "Analyzing a company's past digital marketing efforts in order to make strategic improvements in future digital marketing efforts."
 
 - display_name: Android
   slug: android
@@ -49,7 +49,7 @@
   slug: big-data
   meta_description: "Compare bootcamps that cover Big Data and start your career processing data today!"
   description: "Big data keeps track of all the information in the world. Get ahead with these bootcamps."
-  
+
 - display_name: Branding
   slug: branding
   meta_description: "Compare bootcamps that cover branding to create a cohesive voice using consistent written content and design elements!"
@@ -80,17 +80,17 @@
   slug: css
   meta_description: "Learn CSS with these bootcamps and become a front end expert!"
   description: "Cascading Style Sheets make web pages look great. These bootcamps will teach you how to style pages."
-  
+
 - display_name: Campaigns
   slug: campaigns
   meta_description: "Learn to create and manage a digital marketing campaign that targets the right audience, communicates a compelling message, and maximizes your company’s ROI."
   description: "Campaigns are specific efforts that digital marketers make to reach a company goal."
-  
+
 - display_name: Customer Insights
   slug: customer-insights
   meta_description: "Digital marketing efforts are only effective if they resonate with the people you’re trying to reach. Identify your target audience and create content that speaks to them."
   description: "Customer Insights is an understanding of the demographics and behavior of company's users and target audience."
-  
+
 - display_name: D3
   slug: d3
   meta_description: "Find out which bootcamps will teach you D3 and learn how to build dynamic web infographics"
@@ -273,18 +273,18 @@
 
 - display_name: Product
   slug: product
-  meta_description: An accessible entity that delivers market value 
-  description: A product is a physical, downloadable or accessible entity that can be purchased, downloaded or attained, and delivers value to the customer. 
+  meta_description: An accessible entity that delivers market value
+  description: A product is a physical, downloadable or accessible entity that can be purchased, downloaded or attained, and delivers value to the customer.
 
-- display_name: Product Management 
+- display_name: Product Management
   slug: product-management
   meta_description: The link between every phase of a product’s lifecycle
-  description: Product Management is crucial in developing products, launching them to market and understanding customer needs. 
+  description: Product Management is crucial in developing products, launching them to market and understanding customer needs.
 
-- display_name: Product validation 
+- display_name: Product validation
   slug: product-validation
-  meta_description: Verifying the product will be successful without building or deploying it. 
-  description:  Product validation allows engineers to test feasibility, usability, and desirability of a product before they build and deploy it.  
+  meta_description: Verifying the product will be successful without building or deploying it.
+  description: Product validation allows engineers to test feasibility, usability, and desirability of a product before they build and deploy it.
 
 - display_name: Prototyping
   slug: prototyping
@@ -428,8 +428,8 @@
 
 - display_name: User research
   slug: user-research
-  meta_description: A study, interview, or focus group that clarifies user behavior, desire, and drive. 
-  description:  User research provides an insight into user behavior, desire and drive through studies, interviews, and focus groups. 
+  meta_description: A study, interview, or focus group that clarifies user behavior, desire, and drive.
+  description: User research provides an insight into user behavior, desire and drive through studies, interviews, and focus groups.
 
 - display_name: UX
   slug: ux
@@ -470,3 +470,28 @@
   slug: symfony
   meta_description: "Compare bootcamps that cover PHP's framework Symfony"
   description: "Symfony is a well-known PHP framework. Since PHP is used on a major portion of the websites on the web, work with them by learning at these Symfony bootcamps."
+
+- display_name: Solidity
+  slug: solidity
+  meta_description: "Compare bootcamps that cover Solidity, an OOPL for implmenting smart contracts!"
+  description: "Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum."
+
+- display_name: Ethereum
+  slug: ethereum
+  meta_description: "Compare bootcamps that cover Ethereum, a blockchain-based platform best known for its cryptocurrency, ether (ETH)!"
+  description: "Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform."
+
+- display_name: NFTs
+  slug: nfts
+  meta_description: "Compare bootcamps that cover Non-fungible tokens (NFTS)!"
+  description: "NFTs are unique cryptographic tokens that exist on a blockchain, used to represent an asset, whether it be physical or digital."
+
+- display_name: Blockchain
+  slug: blockchain
+  meta_description: "Compare bootcamps that cover blockchain programming!"
+  description: "A blockchain is a type of distributed ledger technology (DLT) that consists of growing list of records, called blocks, that are securely linked together using cryptography. Simply put, a blockchain is a shared database or ledger."
+
+- display_name: ERC
+  slug: erc
+  meta_description: "Compare bootcamps that cover the various EIP such as ERC-20: used for developing cryptocurrencies, and ERC-721: used for creating NFTs!"
+  description: "ERCs are application-level standards for Ethereum and can include token standards, name registries, library/package formats, and more"
