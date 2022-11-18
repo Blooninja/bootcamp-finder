@@ -14,9 +14,9 @@ meta-description: We turn junior blockchain and web3 developers into senior ones
 primary_email: jeff@rareskills.io
 programs:
   primary:
-    admissions: Application, interview, monthly cohorts
+    admissions: aApplication, interview, monthly cohorts
     cities:
-    - Anywhere
+    - anywhere
     commitment: part-time
     cost_description: $5000
     description: !!python/unicode 'Students will master the major ERC protocols, understand the intricacies of the Solidity language, fully grasp the Ethereum Virtual Machine specifications, go beyond automated testing, use advanced design patterns, and hack smart contracts. They will build projects far harder and more intricate than any other bootcamp would dare challenge them to attempt. Our curriculum is so rigorous that the students have gotten interviews at top blockchain technology companies even before finishing the program.'
@@ -30,13 +30,13 @@ programs:
     reports_outcomes: false
     scholarships: 'No'
     topics:
-    - Solidity
-    - Ethereum
-    - ERC20, ERC721, ERC1155
-    - NFT
-    - Ethereum Virtual Machine (EVM)
-    - Gas Optimization
-    - Assembly and Yul Programming
+    - solidity
+    - ethereum
+    - erc20, erc721, erc1155
+    - nft
+    - ethereum virtual machine (evm)
+    - gas optimization
+    - assembly and yul programming
     tuition: 5000
     tuition_units: USD
 tagline: Intensive blockchain & web3 bootcamp
